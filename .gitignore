@@ -1,0 +1,14 @@
+\#*\#
+*~
+.DS_Store
+.vscode/
+*.pyo
+*.pyc
+*.pyd
+*.7z
+*.rar
+*.zip
+._*
+.Spotlight-V100
+Thumbs.db
+.idea/
